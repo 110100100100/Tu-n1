@@ -1,0 +1,14 @@
+C:\C#\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.exe
+C:\C#\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.deps.json
+C:\C#\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.runtimeconfig.json
+C:\C#\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.dll
+C:\C#\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.pdb
+C:\C#\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.AssemblyInfoInputs.cache
+C:\C#\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.AssemblyInfo.cs
+C:\C#\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.csproj.CoreCompileInputs.cache
+C:\C#\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.dll
+C:\C#\ChuyenDoiTienTe\obj\Debug\net8.0\refint\ChuyenDoiTienTe.dll
+C:\C#\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.pdb
+C:\C#\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.genruntimeconfig.cache
+C:\C#\ChuyenDoiTienTe\obj\Debug\net8.0\ref\ChuyenDoiTienTe.dll
